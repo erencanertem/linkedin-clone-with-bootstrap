@@ -1,1 +1,1 @@
-# Linkedin clone with using bootstrap 
+## Linkedin clone with using bootstrap for kodluyoruz.org bootstrap course
